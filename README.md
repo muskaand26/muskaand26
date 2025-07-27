@@ -47,7 +47,6 @@ React + LLM integration for smart donor-recipient matching. Reduced search time 
 ## 📅 Let’s Connect!
 
 - 🔗 [LinkedIn](https://linkedin.com/in/muskaan-das-80859624a)
-- 📃 [Resume](https://github.com/muskaand26/MuskaanDasResume/blob/main/Muskaan_Das_AI_Resume.pdf)
 - 📧 muskaandas2004@gmail.com
 
 ---
